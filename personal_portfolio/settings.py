@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-uzexev^uzz=e=pdf^b+2fvg-4l6j(fg06qr!7m4+m_c#kzw9w9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['rezaghazi.com', 'datapro.pythonanywhere.com', '127.0.0.1']
+ALLOWED_HOSTS = ['rezaghazi.com', 'datapro.pythonanywhere.com']
 
 # Application definition
 
@@ -122,3 +122,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 MEDIA_URL = '/media/'
 
 MEDIA_ROOT = BASE_DIR / 'media'
+
+try:
+    from .local_settings import *
+except ImportError:
+    print('There is no local setting defined.')
