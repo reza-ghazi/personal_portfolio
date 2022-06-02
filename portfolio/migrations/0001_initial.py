@@ -19,6 +19,7 @@ class Migration(migrations.Migration):
                 ('description', models.CharField(max_length=250)),
                 ('image', models.ImageField(upload_to='portfolio/images/')),
                 ('url', models.URLField(blank=True)),
+                ('link_label', models.CharField(default='', max_length=100)),
             ],
         ),
     ]
