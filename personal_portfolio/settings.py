@@ -126,4 +126,4 @@ MEDIA_ROOT = BASE_DIR / 'media'
 try:
     from .local_settings import *
 except ImportError:
-    print('There is no local setting defined.')
+    print("Local settings is not defined. Define the 'local_settings.py' first.")
