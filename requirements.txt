@@ -1,7 +1,7 @@
 anyio @ file:///C:/ci/anyio_1644481856696/work/dist
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569876605/work
-asgiref==3.5.1
+asgiref==3.5.2
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
 Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
@@ -17,7 +17,7 @@ cryptography @ file:///C:/ci/cryptography_1652101729823/work
 debugpy @ file:///C:/ci_310/debugpy_1642079916595/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-Django==4.0.4
+Django==4.0.5
 django-mssql-backend==2.8.1
 entrypoints @ file:///C:/ci/entrypoints_1649926676279/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
@@ -61,8 +61,8 @@ pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
 pyrsistent @ file:///C:/ci_310/pyrsistent_1642117077485/work
 PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
-pytz==2021.3
-pywin32==302
+pytz==2022.1
+pywin32==304
 pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp310-none-win_amd64.whl
 pyzmq @ file:///C:/ci_310/pyzmq_1642090360481/work
 requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
