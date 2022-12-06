@@ -49,7 +49,7 @@ packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==9.1.1
+pillow>=9.2.0
 prometheus-client @ file:///opt/conda/conda-bld/prometheus_client_1643788673601/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
