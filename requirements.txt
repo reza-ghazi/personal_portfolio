@@ -17,7 +17,7 @@ cryptography @ file:///C:/ci/cryptography_1652101729823/work
 debugpy @ file:///C:/ci_310/debugpy_1642079916595/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-Django~>4.0.8
+Django~>4.1.7
 django-mssql-backend==2.8.1
 entrypoints @ file:///C:/ci/entrypoints_1649926676279/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
