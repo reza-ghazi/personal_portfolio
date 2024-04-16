@@ -70,7 +70,7 @@ Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 sniffio @ file:///C:/ci_310/sniffio_1642092172680/work
 soupsieve @ file:///tmp/build/80754af9/soupsieve_1636706018808/work
-sqlparse~>0.4.4
+sqlparse~> 0.5.0
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 terminado @ file:///C:/ci/terminado_1644312135040/work
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
